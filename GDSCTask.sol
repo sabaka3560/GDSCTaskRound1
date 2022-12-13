@@ -1,4 +1,5 @@
-solidity 0.8.6;
+
+pragma solidity 0.8.6;
 
 /* token making problem gdsc requirements */
 /* referred from etherium.org and coursera block specialisatins reference materials */
